@@ -1,12 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "palm",
+  "name": "LambShock Docs",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
+  "description": "Documentation for LambShock, an energy plant management API.",
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
@@ -71,6 +72,11 @@
           "anchor": "Blog",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
+        },
+        {
+          "anchor": "Portfolio",
+          "href": "https://opemipojokotagbatjnwg4e4.contra.com/",
+          "icon": "user-tie"
         }
       ]
     }
@@ -98,5 +104,9 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "banner": {
+    "content": "LambShock is an energy plant management API that helps you monitor and manage your energy plants efficiently.",
+    "dismissible": true
   }
 }

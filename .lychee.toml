@@ -1,0 +1,15 @@
+exclude = [
+  # Root-relative paths (e.g. /images/hero.png, /essentials/code) are internal
+  # Mintlify links resolved by the platform at render time, not checkable locally
+  "^\\/",
+
+  # npmjs.com blocks automated checkers with 403
+  "npmjs\\.com",
+
+  # Mintlify's own docs URLs — boilerplate placeholder links that will be
+  # replaced with LambShock-specific content; Mintlify also reorganizes
+  # these URLs frequently (see redirects in CI output)
+  "mintlify\\.com\\/docs",
+]
+
+exclude_path = ["node_modules", ".git", "package-lock.json"]

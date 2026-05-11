@@ -1,0 +1,407 @@
+# GitBook Documentation
+
+## Documentation
+
+- [GitBook Documentation](/docs/getting-started/readme.md): Create and publish beautiful documentation your users will love. GitBook has all the tools you need to create everything from product guides to API references and beyond.
+- [Quickstart](/docs/getting-started/quickstart.md): Get up and running in GitBook and publish your first docs site in minutes
+- [Importing content](/docs/getting-started/import.md): How to import existing content into GitBook from Confluence, Notion, Git and more
+- [GitHub & GitLab Sync](/docs/getting-started/git-sync.md): Synchronize your GitBook content with GitHub or GitLab with GitBook’s bi-directional integration
+- [Enabling GitHub Sync](/docs/getting-started/git-sync/enabling-github-sync.md): Set up and authorize the GitHub integration for GitBook
+- [Enabling GitLab Sync](/docs/getting-started/git-sync/enabling-gitlab-sync.md): Set up and authorize the GitLab integration for GitBook
+- [Content configuration](/docs/getting-started/git-sync/content-configuration.md): Configure Git Sync with extra functionalities
+- [GitHub pull request preview](/docs/getting-started/git-sync/github-pull-request-preview.md): See a preview of your content when making a pull request in GitHub
+- [Commit messages & Autolink](/docs/getting-started/git-sync/commits.md)
+- [Monorepos](/docs/getting-started/git-sync/monorepos.md)
+- [Troubleshooting](/docs/getting-started/git-sync/troubleshooting.md)
+- [Formatting your content](/docs/creating-content/formatting.md): Format your content in various ways using the context menu or keyboard shortcuts
+- [Inline content](/docs/creating-content/formatting/inline.md): Use the inline palette to add images, links, math & TeX, and more
+- [Markdown](/docs/creating-content/formatting/markdown.md): Write Markdown directly in the editor to easily create content using common syntax
+- [Content structure](/docs/creating-content/content-structure.md): Create pages, spaces and collections
+- [Spaces](/docs/creating-content/content-structure/space.md): Organize the content you create and publish into spaces
+- [Pages](/docs/creating-content/content-structure/page.md): Add pages, page groups or external links — and learn about the options you have on each page
+- [Collections](/docs/creating-content/content-structure/collection.md): Organize your spaces into folders.
+- [Blocks](/docs/creating-content/blocks.md): Add and edit blocks within your content.
+- [Paragraphs](/docs/creating-content/blocks/paragraph.md): Add a paragraph block to insert formatted text, inline images and more
+- [Headings](/docs/creating-content/blocks/heading.md): Add heading blocks to a page to organize your content and improve SEO
+- [Unordered lists](/docs/creating-content/blocks/unordered-list.md): Add an unordered list block to create bullet point lists
+- [Ordered lists](/docs/creating-content/blocks/ordered-list.md): Add an ordered or numbered list to a page
+- [Task lists](/docs/creating-content/blocks/task-list.md): Add a task list to display tasks that can be completed
+- [Hints](/docs/creating-content/blocks/hint.md): Add a hint to a page to draw your reader’s attention to specific pieces of important information
+- [Quotes](/docs/creating-content/blocks/quote.md): Add a quote block to a page to highlight copy you’re adding from elsewhere, or to draw attention to a specific part of your text
+- [Code blocks](/docs/creating-content/blocks/code-block.md): Add a code block to a page to include sample code, configurations, code snippets and more
+- [Files](/docs/creating-content/blocks/insert-files.md): Manage and add files to your space such as PDFs, videos, documents and more
+- [Images](/docs/creating-content/blocks/insert-images.md): Add an image or a gallery of images to a page, add image variants for dark mode, and resize and align images to your needs
+- [Embedded URLs](/docs/creating-content/blocks/embed-a-url.md): Embed videos, music and more directly into your page with a URL
+- [Tables](/docs/creating-content/blocks/table.md): Keep information organized and make documenting data easier with tables
+- [Cards](/docs/creating-content/blocks/cards.md): Display information more dynamically with a set of cards — with or without images
+- [Tabs](/docs/creating-content/blocks/tabs.md): Add tabs so you can display large blocks of related information without creating a long, hard-to-navigate page
+- [Expandable](/docs/creating-content/blocks/expandable.md): Add an expandable block to a page to keep your pages shorter, hide longer content, or create FAQs
+- [Stepper](/docs/creating-content/blocks/stepper.md): Add a step-by-step guide to a page — perfect for guides, walkthroughs and technical troubleshooting processes
+- [Drawings](/docs/creating-content/blocks/drawing.md): Create drawings within GitBook and add them to your page
+- [Math & TeX](/docs/creating-content/blocks/math-and-tex.md): Add a mathTeX block to a page when you want to display a mathematical formula in your documentation
+- [Page links](/docs/creating-content/blocks/page-link.md): Add a page link block to show relations between pages in your space.
+- [Columns](/docs/creating-content/blocks/columns.md): Add a column to create different layouts in your documentation.
+- [Variables and expressions](/docs/creating-content/variables-and-expressions.md): Create reusable variables that can be referenced in pages and spaces
+- [Reusable content](/docs/creating-content/reusable-content.md): Create reusable blocks of content that can be used across spaces, and all updated at once when you change an instance
+- [Searching internal content](/docs/creating-content/searching-your-content.md): Find what you’re looking for faster with keyword search and AI-powered smart search
+- [Search & Quick find](/docs/creating-content/searching-your-content/quick-find.md): Search and navigate your documentation fast with quick find.
+- [GitBook AI](/docs/creating-content/searching-your-content/gitbook-ai.md): GitBook uses AI to help you find the knowledge you need within your organization, faster
+- [Writing with GitBook AI](/docs/creating-content/write-and-edit-with-ai.md): Use GitBook AI to generate and build content for your page
+- [Version control](/docs/creating-content/version-control.md): Keep track of changes, roll back to a previous version and more
+- [OpenAPI](/docs/api-references/openapi.md): Add an OpenAPI spec to a page and let your users test endpoints right on the page with interactive blocks.
+- [Add an OpenAPI specification](/docs/api-references/openapi/add-an-openapi-specification.md): Learn how to add and update an OpenAPI specification in GitBook application or from CLI.
+- [Insert API reference in your docs](/docs/api-references/openapi/insert-api-reference-in-your-docs.md): Insert complete API reference from your OpenAPI spec or pick individual operation or schemas.
+- [Guides](/docs/api-references/guides.md)
+- [Structuring your API reference](/docs/api-references/guides/structuring-your-api-reference.md): Learn how to structure your API reference across multiple pages with icons and descriptions.
+- [Adding custom code samples](/docs/api-references/guides/adding-custom-code-samples.md): Learn how to configure custom code samples to display alongside your API endpoints.
+- [Managing API operations](/docs/api-references/guides/managing-api-operations.md): Learn how to mark an OpenAPI API operation as experimental, deprecated or hide it from your documentation.
+- [Describing enums](/docs/api-references/guides/describing-enums.md): Learn how to add descriptions to enums.
+- [Integrating with CI/CD](/docs/api-references/guides/support-for-ci-cd-with-api-blocks.md): Learn how to automate the update of your OpenAPI specification in GitBook.
+- [Extensions reference](/docs/api-references/extensions-reference.md): The complete reference of OpenAPI extensions supported by GitBook.
+- [Publish a docs site](/docs/publishing-documentation/publish-a-docs-site.md): Publish your documentation to the internet as a docs site
+- [Public publishing](/docs/publishing-documentation/publish-a-docs-site/public-publishing.md): Publish your docs publicly to the web so that everyone can access them.
+- [Private publishing with share links](/docs/publishing-documentation/publish-a-docs-site/share-links.md): Add greater control over who can view your published GitBook documentation.
+- [Site structure](/docs/publishing-documentation/site-structure.md): Add structure to your published documentation using site sections and variants
+- [Content variants](/docs/publishing-documentation/site-structure/variants.md): Publish documentation for multiple product versions or languages in a single site
+- [Site sections](/docs/publishing-documentation/site-structure/site-sections.md): Add multiple products to your site as site sections and create a content hub with tabs to access all your content
+- [Site customization](/docs/publishing-documentation/customization.md): Create branded documentation with a custom logo, fonts, colors, links and more
+- [Icons, colors, and themes](/docs/publishing-documentation/customization/icons-colors-and-themes.md): Customize icons, colors, themes and more.
+- [Layout and structure](/docs/publishing-documentation/customization/layout-and-structure.md): Customize the layout and structure of your published documentation.
+- [Extra configuration](/docs/publishing-documentation/customization/extra-configuration.md): Configure extra options for your published documentation.
+- [Set a custom domain](/docs/publishing-documentation/custom-domain.md): Set a custom domain for your docs sites
+- [Setting a custom subdirectory](/docs/publishing-documentation/setting-a-custom-subdirectory.md): Set a custom subdirectory for your docs sites
+- [Configuring a subdirectory with Cloudflare](/docs/publishing-documentation/setting-a-custom-subdirectory/configuring-a-subdirectory-with-cloudflare.md): Host your documentation with a /docs subdirectory using Cloudflare
+- [Configuring a subdirectory with Vercel](/docs/publishing-documentation/setting-a-custom-subdirectory/configuring-a-subdirectory-with-vercel.md): Host your documentation with a /docs subdirectory using Vercel
+- [Site settings](/docs/publishing-documentation/site-settings.md): Customize and edit settings across your published site
+- [Site insights](/docs/publishing-documentation/insights.md): View analytics and insights related to your published documentation’s traffic
+- [Site redirects](/docs/publishing-documentation/site-redirects.md): Set up site redirects to route traffic to content anywhere on your site.
+- [Authenticated access](/docs/publishing-documentation/authenticated-access.md): Set up custom authentication for your published content
+- [Enabling authenticated access](/docs/publishing-documentation/authenticated-access/enabling-authenticated-access.md)
+- [Setting up Auth0](/docs/publishing-documentation/authenticated-access/setting-up-auth0.md): Set up an Auth0 login screen for visitors to your docs.
+- [Setting up Azure AD](/docs/publishing-documentation/authenticated-access/setting-up-azure-ad.md): Set up an Azure AD login screen for visitors to your docs.
+- [Setting up AWS Cognito](/docs/publishing-documentation/authenticated-access/setting-up-aws-cognito.md): Set up an AWS Cognito login screen for visitors to your docs.
+- [Setting up Okta](/docs/publishing-documentation/authenticated-access/setting-up-okta.md): Set up an Okta login screen for visitors to your docs.
+- [Setting up OIDC](/docs/publishing-documentation/authenticated-access/setting-up-oidc.md): Set up an OIDC login screen for visitors to your docs.
+- [Setting up a custom backend](/docs/publishing-documentation/authenticated-access/setting-up-a-custom-backend.md): Set up an custom login screen for visitors to your docs.
+- [Adaptive content](/docs/publishing-documentation/adaptive-content.md): Deliver a tailored documentation experience based on who's reading.
+- [Enabling adaptive content](/docs/publishing-documentation/adaptive-content/enabling-adaptive-content.md): Choose an authentication method to pass user data to GitBook.
+- [Cookies](/docs/publishing-documentation/adaptive-content/enabling-adaptive-content/cookies.md): Pass visitor data into your docs through a public or signed cookie.
+- [URL](/docs/publishing-documentation/adaptive-content/enabling-adaptive-content/url.md): Pass visitor data into your docs through URL query parameters.
+- [Feature flags](/docs/publishing-documentation/adaptive-content/enabling-adaptive-content/feature-flags.md): Pass visitor data into your docs through a feature flag provider.
+- [Authenticated access](/docs/publishing-documentation/adaptive-content/enabling-adaptive-content/authenticated-access.md)
+- [Adapting your content](/docs/publishing-documentation/adaptive-content/adapting-your-content.md): Tailor your content for different users.
+- [Testing with segments](/docs/publishing-documentation/adaptive-content/testing-with-segments.md): Test your conditions with mock data.
+- [Search & GitBook Assistant](/docs/publishing-documentation/search-and-gitbook-assistant.md): Help your users find the information they need faster with powerful knowledge discovery tools for your published content
+- [LLM-ready docs](/docs/publishing-documentation/llm-ready-docs.md): Providing an LLM-friendly version of your docs site
+- [Live edits](/docs/collaboration/live-edits.md): Edit pages in real-time with other collaborators
+- [Change requests](/docs/collaboration/change-requests.md): Collaborate on content edits through change requests
+- [PDF export](/docs/collaboration/pdf-export.md): Export a PDF copy of your GitBook content
+- [Inviting your team](/docs/collaboration/share.md): Collaborate with your teammates on spaces, collections and more
+- [Comments](/docs/collaboration/comments.md): Ask questions to your team or receive feedback on the content you create
+- [Notifications](/docs/collaboration/notifications.md): Receive notifications about new content, updates to your spaces or changes in visibility
+- [Install and manage integrations](/docs/integrations/install-an-integration.md): Install an integration in a single space, or all the spaces in your organization
+- [GitHub Copilot](/docs/integrations/github-copilot.md): Leverage your GitBook documentation to answer user queries and provide instant responses within your workflow
+- [Plans](/docs/account-management/plans.md): Learn about the differences in plans we offer for users and sites.
+- [Community plan](/docs/account-management/plans/community.md): Apply for our Open Source plan in GitBook.
+- [Sponsored site plan](/docs/account-management/plans/community/sponsored-site-plan.md): Learn more about how you can earn money from your documentation site with our sponsored site plan.
+- [Billing policy](/docs/account-management/plans/billing-policy.md)
+- [Subscription cancellations](/docs/account-management/cancelling-a-plan.md): Cancel your subscription.
+- [Personal settings](/docs/account-management/account-settings.md): View and manage the settings for your personal GitBook account.
+- [Organization settings](/docs/account-management/organization-settings.md)
+- [Member management](/docs/account-management/member-management.md): Learn how to manage access to content for members of your organization.
+- [Invite or remove members](/docs/account-management/member-management/invite-members-to-your-organization.md)
+- [Roles](/docs/account-management/member-management/roles.md)
+- [Teams](/docs/account-management/member-management/teams.md): Teams are a great way of grouping members within your organization.
+- [Permissions and inheritance](/docs/account-management/member-management/permissions-and-inheritance.md)
+- [SSO & SAML](/docs/account-management/sso-and-saml.md): Learn how to share your GitBook content via SSO & SAML.
+- [SSO Members vs non-SSO](/docs/account-management/sso-and-saml/sso-members-vs-non-sso.md)
+- [GitBook UI](/docs/resources/gitbook-ui.md): Learn about the different components and UI in GitBook’s editor
+- [Keyboard shortcuts](/docs/resources/keyboard-shortcuts.md): A quick reference guide to all the keyboard shortcuts available in GitBook
+- [Glossary](/docs/resources/glossary.md)
+
+## Developers
+
+- [Developer Documentation](/docs/developers/getting-started/readme.md): Use GitBook’s API, SDK, and developer tools to build custom integrations, streamline workflows, and create tailored solutions for your docs.
+- [Quickstart](/docs/developers/getting-started/setup-guide.md): Get up and running with the developer platform in minutes.
+- [Development](/docs/developers/getting-started/development.md): Develop and test integrations in GitBook.
+- [Publishing](/docs/developers/getting-started/publishing.md): Publish your apps and integrations publicly or privately.
+- [Introduction](/docs/developers/integrations/integrations.md): Build context-relevant, action-orientated integrations directly on top of GitBook.
+- [Using the CLI](/docs/developers/integrations/reference.md)
+- [Configuration](/docs/developers/integrations/configurations.md): Learn about the gitbook-manifest.yaml file your integration uses.
+- [ContentKit](/docs/developers/integrations/contentkit.md): Build integrations using GitBook’s UI framework.
+- [Component reference](/docs/developers/integrations/contentkit/reference.md)
+- [Integration runtime](/docs/developers/integrations/runtime.md)
+- [Client library](/docs/developers/browser-node.md): GitBook's official Node.js client library.
+- [Guides](/docs/developers/guides.md)
+- [Creating a custom unfurl action](/docs/developers/guides/create-a-custom-unfurl-action-for-your-integration.md)
+- [Creating interactive blocks](/docs/developers/guides/interactivity.md)
+- [Referencing your integration in Markdown](/docs/developers/guides/markdown.md)
+- [Working with HTTP requests](/docs/developers/guides/receiving-requests.md)
+- [Using the CLI in CI/CD](/docs/developers/guides/ci.md)
+- [Introduction](/docs/developers/gitbook-api/overview.md): Automate and integrate your documentation with GitBook’s API.
+- [Authentication](/docs/developers/gitbook-api/authentication.md): Authenticate your user when using the GitBook API.
+- [API reference](/docs/developers/gitbook-api/api-reference.md): GitBook’s full API reference.
+- [Organizations](/docs/developers/gitbook-api/api-reference/organizations.md): Manage your organizations and group your members, spaces, and resources under one collaborative structure.
+- [Organization members](/docs/developers/gitbook-api/api-reference/organizations/organization-members.md): Handle all aspects of membership within an organization, from listing to role management.
+- [Organization invites](/docs/developers/gitbook-api/api-reference/organizations/organization-invites.md): Streamline the invitation process for new members joining your organization.
+- [Organization AI ask](/docs/developers/gitbook-api/api-reference/organizations/organization-ai-ask.md): Unlock AI-driven answers for your organization's content and data.
+- [Docs sites](/docs/developers/gitbook-api/api-reference/docs-sites.md): Manage your published docs sites.
+- [Site structure](/docs/developers/gitbook-api/api-reference/docs-sites/site-structure.md): Retrieve and manipulate the entire hierarchical layout of a site.
+- [Site share links](/docs/developers/gitbook-api/api-reference/docs-sites/site-share-links.md): Control how you share docs externally by managing share links for a site.
+- [Site auth](/docs/developers/gitbook-api/api-reference/docs-sites/site-auth.md): Manage the authentication needed for publishing your site.
+- [Site preview](/docs/developers/gitbook-api/api-reference/docs-sites/site-preview.md): Fetch an up-to-date preview of your site before publishing.
+- [Site customization](/docs/developers/gitbook-api/api-reference/docs-sites/site-customization.md): Customize the look and feel of your docs site.
+- [Site spaces](/docs/developers/gitbook-api/api-reference/docs-sites/site-spaces.md): Control which spaces are linked and displayed in a docs site.
+- [Site sections](/docs/developers/gitbook-api/api-reference/docs-sites/site-sections.md): Create and organize high-level sections for your docs site.
+- [Site section groups](/docs/developers/gitbook-api/api-reference/docs-sites/site-section-groups.md): Group and manage sections of your docs for easier organization.
+- [Site redirects](/docs/developers/gitbook-api/api-reference/docs-sites/site-redirects.md): Establish redirects for pages that have moved or changed in your docs site.
+- [Site MCP servers](/docs/developers/gitbook-api/api-reference/docs-sites/site-mcp-servers.md): Configure external MCP servers used by your site.
+- [Site ads](/docs/developers/gitbook-api/api-reference/docs-sites/site-ads.md): Control and customize ad placements on your docs site.
+- [Site users](/docs/developers/gitbook-api/api-reference/docs-sites/site-users.md): Manage which users can access or contribute to a docs site.
+- [Site insights](/docs/developers/gitbook-api/api-reference/docs-sites/site-insights.md): Analyze traffic and engagement metrics for your docs site.
+- [Site AI ask](/docs/developers/gitbook-api/api-reference/docs-sites/site-ai-ask.md): Allow AI-driven queries within a specific docs site.
+- [Collections](/docs/developers/gitbook-api/api-reference/collections.md): Organize and manage grouped sets of spaces for better content structure.
+- [Collection users](/docs/developers/gitbook-api/api-reference/collections/collection-users.md): Handle permissions and user management for a specific collection.
+- [Collection teams](/docs/developers/gitbook-api/api-reference/collections/collection-teams.md): Allocate team-based permissions to your collections.
+- [Spaces](/docs/developers/gitbook-api/api-reference/spaces.md): Create, maintain, and remove content spaces.
+- [Space content](/docs/developers/gitbook-api/api-reference/spaces/space-content.md): Import, export, and search content in a space.
+- [Space comments](/docs/developers/gitbook-api/api-reference/spaces/space-comments.md): Integrate and manage user comments in a space.
+- [Space embeds](/docs/developers/gitbook-api/api-reference/spaces/space-embeds.md): Render or resolve embedded content within a space.
+- [Space teams](/docs/developers/gitbook-api/api-reference/spaces/space-teams.md): Integrate team-based permissions for better collaboration in a space.
+- [Space integrations](/docs/developers/gitbook-api/api-reference/spaces/space-integrations.md): Connect external tools and plugins to enhance your space functionality.
+- [Space users](/docs/developers/gitbook-api/api-reference/spaces/space-users.md): Manage user roles and permissions on a per-space basis.
+- [Git](/docs/developers/gitbook-api/api-reference/spaces/git.md): Connect Git repositories to your space for seamless version control.
+- [Change requests](/docs/developers/gitbook-api/api-reference/change-requests.md): Review and collaborate on proposed documentation changes before merging.
+- [Change request content](/docs/developers/gitbook-api/api-reference/change-requests/change-request-content.md): Manage the actual content changes associated with a change request.
+- [Change request contributors](/docs/developers/gitbook-api/api-reference/change-requests/change-request-contributors.md): See who's participating in the change request.
+- [Change request reviewers](/docs/developers/gitbook-api/api-reference/change-requests/change-request-reviewers.md): Assign or list requested reviewers for a change request.
+- [Change request comments](/docs/developers/gitbook-api/api-reference/change-requests/change-request-comments.md): Engage in threaded conversations on proposed changes.
+- [Translations](/docs/developers/gitbook-api/api-reference/translations.md): Configure multi-language support and translation options for your documentation.
+- [Glossary](/docs/developers/gitbook-api/api-reference/translations/glossary.md): Manage custom terms translations used by the translation feature.
+- [Integrations](/docs/developers/gitbook-api/api-reference/integrations.md): Install and handle third-party integrations for extended GitBook functionality.
+- [URLs](/docs/developers/gitbook-api/api-reference/urls.md): Configure where and how your GitBook content can be accessed.
+- [OpenAPI](/docs/developers/gitbook-api/api-reference/openapi.md): Upload, access, or version-control your OpenAPI specifications directly in GitBook.
+- [OpenAPI spec versions](/docs/developers/gitbook-api/api-reference/openapi/openapi-spec-versions.md): Track changes to your OpenAPI documents by versioning them.
+- [Conversations](/docs/developers/gitbook-api/api-reference/conversations.md): Ingest knowledge for Conversations.
+- [Custom fonts](/docs/developers/gitbook-api/api-reference/custom-fonts.md): Bring your own fonts to personalize your documentation style.
+- [Subdomains](/docs/developers/gitbook-api/api-reference/subdomains.md): Manage and configure organization-specific subdomains for your docs.
+- [Users](/docs/developers/gitbook-api/api-reference/users.md): Retrieve and manage user information and profiles.
+- [Teams](/docs/developers/gitbook-api/api-reference/teams.md): Create and manage teams as reusable groups of users.
+- [Team members](/docs/developers/gitbook-api/api-reference/teams/team-members.md): Control membership at the team level for cohesive role management.
+- [SSO](/docs/developers/gitbook-api/api-reference/sso.md): Configure Single Sign-On solutions to unify your organization's authentication.
+- [Storage](/docs/developers/gitbook-api/api-reference/storage.md): Upload and store files directly within your GitBook organization.
+- [Custom hostnames](/docs/developers/gitbook-api/api-reference/custom-hostnames.md): Serve your GitBook content from fully branded, custom hostnames.
+- [System info](/docs/developers/gitbook-api/api-reference/system-info.md): Programmatically check GitBook API system status and version details.
+- [Rate limiting](/docs/developers/gitbook-api/rate-limiting.md)
+- [Pagination](/docs/developers/gitbook-api/pagination.md)
+- [Errors](/docs/developers/gitbook-api/errors.md)
+- [Overview](/docs/developers/marketplace/overview.md): Learn more about GitBook's Integration Marketplace
+- [Submit your app for review](/docs/developers/marketplace/submit-your-app-for-review.md)
+- [Concepts](/docs/developers/resources/concepts.md): Learn about different GitBook concepts that also relate to the developer platform.
+- [Changelog](/docs/developers/resources/api.md)
+
+## Guides
+
+- [Guides](/docs/guides/readme.md): Explore GitBook’s features in more detail, discover new ways to work, and learn documentation best practices with our guides
+- [The complete guide to creating and publishing documentation in GitBook \[updated for 2025\]](/docs/guides/product-guides/complete-guide-to-publishing-docs-gitbook.md): Learn how to use GitBook to create public or private documentation for your project — and how to add customizations, check analytics, and more
+- [Import or migrate your content to GitBook with Git Sync](/docs/guides/product-guides/import-or-migrate-your-content-to-gitbook-with-git-sync.md): Easily import content from your previous documentation provider — or from GitHub or GitLab — using Git Sync in GitBook
+- [Localize your docs with variants in GitBook](/docs/guides/product-guides/localize-your-docs-with-variants-in-gitbook;.md): Learn how to use variants in GitBook to translate and manage different versions of your docs site for multiple languages
+- [Use GitHub Actions to translate GitBook pages](/docs/guides/product-guides/use-github-actions-to-translate-gitbook-pages.md)
+- [How to handle merge conflicts in GitBook](/docs/guides/product-guides/how-to-handle-merge-conflicts-in-gitbook.md): Why do merge conflicts happen in GitBook and how do you resolve them? Our guide can help.
+- [Find & replace or make batch changes across your GitBook docs with Git Sync](/docs/guides/product-guides/find-and-replace-or-make-batch-changes-across-your-gitbook-docs-with-git-sync.md): Sync your docs to GitHub or GitLab and make bulk changes to your docs with a single pull request
+- [Track documentation analytics with Google Analytics](/docs/guides/product-guides/track-documentation-analytics-with-google-analytics.md): Learn how to install and configure the Google Analytics integration so you can track detailed analytics from your docs site
+- [Upload and embed a playable video into your GitBook docs](/docs/guides/product-guides/upload-and-embed-a-playable-video-into-your-gitbook-docs.md): Drag and drop a video from your desktop into GitBook, then set it up so users can play that video on the page
+- [Combine multiple existing sites into one using site sections](/docs/guides/product-guides/combine-multiple-docs-sites-using-sections.md): We run through the process of centralizing all your existing documentation in a single site using site sections in GitBook
+- [Import content from a CSV file into GitBook](/docs/guides/product-guides/import-zendesk-csv-to-gitbook.md): Learn how to add data from Zendesk — or any other CSV file — into GitBook
+- [Document your API in GitBook in 5 simple steps](/docs/guides/product-guides/document-your-api-in-gitbook-in-5-simple-steps.md): Learn how to build beautiful, interactive API documentation in GitBook.
+- [How to personalize your GitBook site using cookies and adaptive content](/docs/guides/product-guides/setting-up-adaptive-content.md): Learn how to set up adaptive content so you can tailor your docs to individual readers based on user data or URL parameters
+- [How to personalize your GitBook site using URL parameters and adaptive content](/docs/guides/product-guides/how-to-personalize-your-gitbook-site-using-url-parameters-and-adaptive-content.md)
+- [How to personalize your GitBook site using Auth0 and adaptive content](/docs/guides/product-guides/how-to-personalize-your-gitbook-site-using-auth0-and-adaptive-content.md)
+- [API docs: The seven principles of great API docs and how to apply them](/docs/guides/best-practices/api-documentation-principles.md): Create great API documentation for your users using these foundational principles
+- [How to write incredible API documentation](/docs/guides/best-practices/how-to-write-incredible-api-documentation.md): What we’ve learned about writing API docs that drive adoption and reduce support.
+- [Documentation analytics: which metrics to track and how to measure success](/docs/guides/best-practices/documentation-analytics.md): Still figuring out the best way to prove success with your user-facing documentation? This guide will help you figure out what to track and how to analyze the data.
+- [How to create branded documentation](/docs/guides/best-practices/how-to-create-branded-documentation.md): Make your docs match your brand with a custom domain, logo, color scheme and more
+- [How to structure technical documentation: best practices](/docs/guides/best-practices/documentation-structure-tips.md): Whether you’re creating API docs, product docs, FAQs, technical guides, onboarding docs or a mixture of them all, here’s how you build a structure that makes them easy for customers to use
+- [Make your documentation process more collaborative with change requests](/docs/guides/best-practices/make-your-documentation-process-more-collaborative-with-change-requests.md): Change requests in GitBook make it easier for your whole team contribute to the documentation process — whether they’re editing pages, reviewing changes, or just leaving feedback
+- [How to encourage contributions to your open source documentation](/docs/guides/best-practices/how-to-encourage-contributions-to-your-open-source-documentation.md): 7 things you can do to make it easier for contributors to write docs for your OSS project
+- [Introducing AI into your product documentation workflow](/docs/guides/improve-your-docs/introducing-ai-into-your-product-documentation-workflow.md): Discover how you can use AI tools to improve your docs workflow — including its limitations and how to overcome them
+- [Build your docs around your users’ needs with documentation personas](/docs/guides/improve-your-docs/documentation-personas.md): With documentation personas, you can focus on the challenges your users are facing, what they need to achieve, and how your docs can help them get there
+- [How to use SEO techniques to improve your documentation](/docs/guides/improve-your-docs/how-to-use-seo-techniques-to-improve-your-documentation.md): Make it easier for your existing users or potential customers to find your docs with these simple tricks to help your content rank high in search engines
+- [7 ways to make your public documentation more useful for users](/docs/guides/improve-your-docs/7-ways-to-make-your-public-documentation-more-useful-for-users.md): Tips and advice to help you create great documentation, so you can improve your user ratings and reduce your support team’s load
+- [Quick tips to improve your technical writing workflow in GitBook](/docs/guides/improve-your-docs/quick-tips-to-improve-your-technical-writing-workflow-in-gitbook.md): Shortcuts, tricks and advice to help you up your technical documentation game in GitBook and make your content work harder
+
+## Changelog
+
+- [15 July: Variables, redesigned search, better diff view and more](/docs/changelog/july-2025/15-july-variables-redesigned-search-better-diff-view-and-more.md): Create and add reusable variables to your docs, plus a redesigned search experience for your published docs, and other editor improvements
+- [8 July: Custom code fonts, make your API spec public and more](/docs/changelog/july-2025/8-july-custom-code-fonts-make-your-api-spec-public-and-more.md): You can now upload your own custom font for code blocks, create new sites more easily, make your API spec public and more
+- [24 June: Performance upgrades, llms-full.txt and .md support, text alignment and more](/docs/changelog/june-2025/24-june-performance-upgrades-llms-full.txt-and-.md-support-text-alignment-and-more.md): Your docs sites load faster and support llms-full.txt and .md for LLM ingestion — plus you can now add icons to buttons, center- or right-align text on the page, and much more
+- [17 June: Column blocks, inline icons and a bunch of smaller improvements](/docs/changelog/june-2025/17-june-column-blocks-inline-icons-and-a-bunch-of-smaller-improvements.md): We’ve added a new block type — columns — plus inline icons, a better site structure management experience and more
+- [10 June: New customization styles, email improvements, dark mode cover images and more](/docs/changelog/june-2025/10-june-new-customization-styles-email-improvements-dark-mode-cover-images-and-more.md): You can now add circular buttons, choose flatter design elements, and select cover images specifically for light and dark mode in GitBook
+- [20 May: Commenting improvements, link UI improvements, a new dashboard and more](/docs/changelog/may-2025/20-may-commenting-improvements-link-ui-improvements-a-new-dashboard-and-more.md): We’ve made comments easier to read and use, tweaked the UX for adding and editing links, fixed some bugs and made other smaller improvements
+- [13 May: Global reusable content and an all-new sidebar design](/docs/changelog/may-2025/readme.md): You can now create reusable content and add it anywhere in your organization — plus some major sidebar improvements, bug fixes and more
+- [6 May: Add inline buttons to your docs, easy block selection and more](/docs/changelog/may-2025/6-may-add-inline-buttons-to-your-docs-easy-block-selection-and-more.md): Want to add a button to your published docs? Now you can — plus we’ve made block selection easier, and made some smaller improvements and fixes
+- [30 April: Auto-updating API reference docs, design improvements, editor updates and more](/docs/changelog/april-2025/30-april-auto-updating-api-reference-docs-design-improvements-editor-updates-and-more.md): There’s a new home for your OpenAPI specification that makes generating and updating API reference docs effortless, plus a bunch of other improvements.
+- [8 April: Link tooltips, even more editor improvements, and some bug fixes](/docs/changelog/april-2025/8-april-link-tooltips-even-more-editor-improvements-and-some-bug-fixes.md): Work continues on giving you the best editor experience possible, and we’ve added new tooltips to links in published docs to give readers extra context before they click
+- [1 April: New and improved tables, announcement banners, custom fonts and more](/docs/changelog/april-2025/1-april-new-and-improved-tables-announcement-banners-custom-fonts-and-more.md): Huge table improvements and custom fonts for published sites lead the way this week — which also marks GitBook’s 11th birthday! 🎉
+- [25 March: A ton of editor improvements, bug fixes and more](/docs/changelog/march-2025/25-march-a-ton-of-editor-improvements-bug-fixes-and-more.md): A dedicated team have been working hard on making some editor improvements and fixes to improve the overall editing experience in GitBook
+- [18 March: A new search bar style, better link editing, plus small improvements and fixes](/docs/changelog/march-2025/18-march-a-new-search-bar-style-better-link-editing-plus-small-improvements-and-fixes.md): We’ve added a new way to display your search bar, made it easier to edit or copy links in the editor, and made a big bunch of other improvements and fixes
+- [4 March: New link styles, broken URL insights, a new integration and more](/docs/changelog/march-2025/4-march-new-link-styles-broken-url-insights-a-new-integration-and-more.md): We’ve added a new customization option, a new way to view external links pointing to nonexistent pages in your docs so you can fix them, and a bunch of smaller improvements and fixes
+- [25 February: New and improved hint blocks](/docs/changelog/february-2025/25-february-new-and-improved-hint-blocks.md): You can now add titles to hint blocks and customize their colors for published content, plus we’ve released a number of other smaller improvements
+- [19 February: Powerful new themes, site section groups and more](/docs/changelog/february-2025/19-february-powerful-new-themes-site-section-groups-and-more.md): We’ve added some incredible new customization options for your docs site, including new theming options and site section groups that let you create a nav with drop-down menus
+- [11 February: An all-new preview, better OpenAPI blocks and more](/docs/changelog/february-2025/11-february-an-all-new-preview-better-openapi-blocks-and-more.md): We’ve given your site preview a big upgrade with extra options, improved our OpenAPI blocks, added some new integrations, and more
+- [4 February: Completely revamped insights, a better header bar and more](/docs/changelog/february-2025/4-february-completely-revamped-insights-a-better-header-bar-and-more.md): We just shipped a huge improvement to your site insights, along with a new header bar to make space and site management easier
+- [28 January: /llms.txt support, improved sitemapping and more](/docs/changelog/january-2025/28-january-llms.txt-support-improved-sitemapping-and-more.md): All GitBook sites now automatically generate an /llms.txt file to make it easier for large language models to process your site data
+- [21 January: A better site footer, clearer cards, keyboard formatting and more](/docs/changelog/january-2025/21-january-a-better-site-footer-clearer-cards-keyboard-formatting-and-more.md): This week we’ve made visual improvements to your site’s footer, added placeholders to empty card fields, add keyboard formatting options, and more
+- [14 January: A big upgrade for docs site TOCs, plus better tables and emojis](/docs/changelog/january-2025/14-january-a-big-upgrade-for-docs-site-tocs-plus-better-tables-and-emojis.md): We’ve added more customization options for the table of contents, plus a new alignment setting for tables and an emoji update in the GitBook app
+- [7 January: Ask AI insights, TOC improvements, an emoji update and more](/docs/changelog/january-2025/7-january-ask-ai-insights-toc-improvements-an-emoji-update-and-more.md): You can now see insights into what your users are asking in your docs, we’ve made some small improvements to the table of contents, and fixed a few bugs
+- [17 December: Visual upgrades, table improvements and more](/docs/changelog/december-2024/17-december-visual-upgrades-table-improvements-and-more.md): We’ve made some visual upgrades to published docs sites, added content breadcrumbs, made tables more consistent, and added new ways to style text in comments
+- [10 December: Ask AI improvements, a better inline code experience and more](/docs/changelog/december-2024/10-december-ask-ai-improvements-a-better-inline-code-experience-and-more.md): With this release your users can now get AI-powered answers from across all the sections of your docs site, plus we’ve improved inline code blocks, upgraded the page outline, and more
+- [27 November: Site redirects, better site structure controls and more](/docs/changelog/november-2024/27-nov-site-redirects-structure-and-more.md): Get more control over URLs, manage your site’s structure more easily, install integrations more easily, and auto-play and loop embedded videos in your docs effortlessly
+- [25 October: Site sections with global search, sponsored docs for open source and more](/docs/changelog/october-2024/25-october-site-sections-with-global-search-sponsored-docs-for-open-source-and-more.md): Make your docs a content hub with site sections, create and reuse content across a space, add buttons to your site header, use stepper blocks in your content, and even more…
+- [1 October: Improved diff view, synced blocks and more](/docs/changelog/october-2024/1-october-improved-diff-view-synced-blocks-and-more.md): We’re adding reusable content to GitBook, along with a better way to view edits in a change request, improved change request previews, and more.
+- [Announcement: URLs for multi-variant docs sites are changing](/docs/changelog/september-2024/announcement-urls-for-multi-variant-docs-sites-are-changing.md): 24 September — We’re changing the structure of URLs for sites with multiple variants — and we’ve set up automatic redirects to ensure all links still work as expected
+- [17 September: Page index controls, better OpenAPI blocks and more](/docs/changelog/september-2024/17-september-page-index-controls-better-openapi-blocks-and-more.md): You can now exclude specific pages from searching indexing — for both in-app search and external search engines
+- [27 August: A new space header, bug fixes, and a bunch of smaller improvements](/docs/changelog/august-2024/27-august-a-new-space-header-bug-fixes-and-a-bunch-of-smaller-improvements.md): We’ve just released a new space header to make it easier to manage your content, plus a whole host of other smaller changes to improve your experience in GitBook.
+- [8 August: Page icons, docs site improvements, hidden pages and more](/docs/changelog/august-2024/8-august-page-icons-docs-site-improvements-hidden-pages-and-more.md): We’ve added new icon options for your pages, made a bunch of improvements to docs sites, made hidden pages and MFA available for everyone, and much more
+- [18 July: Rolling out MFA and the hidden pages beta](/docs/changelog/july-2024/18-july-rolling-out-mfa-and-the-hidden-pages-beta.md): This release lets you make your account more secure, adds a beta option to hide pages from published sites, and includes a bunch of other, smaller improvements
+- [1 July: New localizations, docs site improvements and more](/docs/changelog/july-2024/1-july-new-localizations-docs-site-improvements-and-more.md): Support for Brazilian Portuguese and German, a new way to manage and install integrations, and a whole bunch of docs site improvements
+- [31 May: Introducing docs sites, the new way to publish content in GitBook](/docs/changelog/may-2024/31-may-introducing-docs-sites-the-new-way-to-publish-content-in-gitbook.md): We’ve revamped the way you publish content in GitBook by bringing all your published content together, along with all the settings and features related to publishing.
+- [22 May: GitBook AI gets a GPT-4o upgrade and new diagramming skills](/docs/changelog/may-2024/22-may-gitbook-ai-gets-a-gpt-4o-upgrade-and-new-diagramming-skills.md): We’ve migrated our AI to use the latest model, so asking questions and generating content will have even better results — plus we’ve added AI diagrams to our drawing tool
+- [30 April: Broken link detection and GitBook AI comes out of beta](/docs/changelog/april-2024/30-april-broken-link-detection-and-gitbook-ai-comes-out-of-beta.md): Broken link detection for internal links, AI features are officially graduating, plus some other small but useful updates and bug fixes throughout the app
+- [19 April: Small improvements and bug fixes](/docs/changelog/april-2024/19-april-small-improvements-and-bug-fixes.md): We’ve made some small but useful improvements to the app, and squashed some pesky bugs as we prep for a bigger release coming soon.
+- [27 March: Open-sourcing our published documentation](/docs/changelog/march-2024/27-march-open-sourcing-our-published-documentation.md): You can now contribute and suggest improvements to GitBook to make published documentation even better
+- [4 March: Huge improvements to your published documentation](/docs/changelog/march-2024/4-march-huge-improvements-to-your-published-documentation.md): Your published sites are getting a big update, with a new look, better performance, extra customization, improved OpenAPI blocks, a redesigned PDF experience and more
+- [21 February: Edit text with AI, a published docs preview and more](/docs/changelog/february-2024/21-february-edit-text-with-ai-a-published-docs-preview-and-more.md): We’ve added the option to edit text with AI, a preview of our new published documentation experience, and a bunch of other nice improvements
+- [8 February 2024: Deprecating the API method block in favor of OpenAPI improvements](/docs/changelog/february-2024/depreciating-api-method-block.md): We’re making big improvements to our OpenAPI support and API documentation rendering — so we’re replacing the editable API method block with a standard text alternative.
+- [2 February: AI writing assistant, a new home for important updates, and more!](/docs/changelog/february-2024/1-february-ai-writing-and-more.md): We’ve added new ways to create and edit text with AI, plus a new Home section, snippet improvements, and a bunch of bug fixes
+- [22 January: Small improvements and bug fixes](/docs/changelog/january-2024/22-january-small-improvements-and-bug-fixes.md): We’ve shipped some small but useful improvements to the app, and squashed some pesky bugs
+- [10 January: Turn snippets into docs, change your public docs font and more](/docs/changelog/january-2024/10-january-turn-snippets-into-docs-change-your-public-docs-font-and-more.md): We’re making it even easier to turn knowledge into documentation in your knowledge base, adding a free customization option for everyone, and much more
+- [30 November: A huge update for GitBook](/docs/changelog/november-2023/30-november-a-huge-update-for-gitbook.md): New integrations, a more modern design, better performance, and new features to help you audit and improve your content
+- [13 November: Side panel and sidebar improvements](/docs/changelog/november-2023/13-november-side-panel-and-sidebar-improvements.md): We’ve made getting information about your space more consistent, and improved the sidebar to make it easier to browse and copy your content
+- [5 October: Theme-aware images, team owners and more](/docs/changelog/october-2023/5-october-theme-aware-images-team-owners-and-more.md): We’ve added an option to tailor images for light and dark modes, added team owners, and have some great security news to share!
+- [27 September: Real-time collaboration and reviews](/docs/changelog/september-2023/27-september-real-time-collaboration-and-reviews.md): We’ve made collaboration better than ever with real-time editing and reviews for change requests
+- [22 August: Member management and more](/docs/changelog/august-2023/22-august-member-management-and-more.md): We’ve made it easier to manage members in your organization, plus made some other useful improvements
+- [24 July: Iterating, improving, fixing](/docs/changelog/july-2023/24-july-iterating-improving-fixing.md): We’ve made some small (but mighty) quality-of-life improvements with our latest releases
+- [29 June: More customization options and our new integrations platform](/docs/changelog/june-2023/29-june-more-customization-options-and-our-new-integrations-platform.md): Powerful page options give you more control, plus we have a new platform so you can build your own integrations for GitBook!
+- [30 May: A light/dark mode toggle and new customization options](/docs/changelog/may-2023/30-may-a-light-dark-mode-toggle-and-new-customization-options.md): We’ve added a light and dark mode toggle for your public documentation, and new color settings to help you customize your content
+- [27 April 23: Image resizing and othe improvements](/docs/changelog/april-2023/27-april-23-image-resizing-and-othe-improvements.md): We’ve improved the editor to give you more options when it comes to image sizes
+- [7 April 23: Block selection and upcoming improvements to the GitBook editor](/docs/changelog/april-2023/7-april-23-block-selection-and-upcoming-improvements-to-the-gitbook-editor.md): We're opening a series of improvements to our editor by enabling block selection and interactions on selected blocks.
+- [5 April 23: GitBook AI search, preview your change requests and more](/docs/changelog/april-2023/5-april-23-gitbook-ai-and-lens-preview-your-change-requests-and-more.md)
+- [24 February 23: AI-powered search, share & permissions, and more](/docs/changelog/february-2023/24-february-23-smart-search-share-and-permissions-and-more.md): A new search feature powered by AI and a number of quality-of-life improvements on GitBook
+- [07 February 23: Monorepos, customized commit messages, and more](/docs/changelog/february-2023/07-february-23-monorepos-customized-commit-messages-and-more.md): More flexibility with Git Sync and some new designs for search and change requests.
+- [31 January 23: Change request subject, ordered lists, and more](/docs/changelog/january-2023/31-january-23-change-request-subject-ordered-lists-and-more.md): We've added more context around change requests, improved performance and squashed some bugs.
+- [24 January 23: New comments UI, improved diff view, and more](/docs/changelog/january-2023/24-january-23-new-comments-ui-improved-diff-view-and-more.md): We've spent a lot of time fixing critical bugs, improving performance, and adding key features.
+- [15 December 22: Editor improvements, and more](/docs/changelog/december-2022/15-december-22-editor-improvements-and-more.md): We've worked on GitBook's overall editor experience, improving reliability, copy/paste from multiple sources and speedy shortcuts.
+- [30 November 22: Annotations, footnotes, and more](/docs/changelog/november-2022/30-november-22-annotations-footnotes-and-more.md): We’ve added more ways to provide contextual information for your visitors, as well as improvements to expandable blocks and several bug fixes.
+- [22 November 22: Linking pages from another space, and more](/docs/changelog/november-2022/22-november-22-linking-pages-from-another-space-and-more.md)
+- [3 November 22: Public docs, integrations, and more](/docs/changelog/november-2022/3-november-22-public-docs-integrations-and-more.md)
+- [12 August 22: Auto-sizing columns, and more](/docs/changelog/august-2022/12-august-22-auto-sizing-columns-and-more.md)
+- [4 August 22: Code blocks, invites, and more](/docs/changelog/august-2022/4-august-22-code-blocks-invites-and-more.md)
+- [26 July 22: New Git Sync, and more](/docs/changelog/july-2022/26-july-22-new-git-sync-and-more.md)
+- [18 July 22: Slack and Segment integration, notifications, and more](/docs/changelog/july-2022/18-july-22-slack-and-segment-integration-notifications-and-more.md)
+- [Introducing GitBook 3.0](/docs/changelog/past-releases/introducing-gitbook-3.0.md): Hot off the press, it's GitBook's new releases
+- [Expandable Blocks](/docs/changelog/past-releases/expandable-blocks.md): Better-structure your content with an expand/collapse pattern.
+- [Cover Images](/docs/changelog/past-releases/cover-images.md): Give your pages a bit more life with cover images
+- [Faster Change Request Merges](/docs/changelog/past-releases/faster-change-request-merges.md): Skip review processes and quickly merge your content.
+
+## Help Center
+
+- [Help Center](/docs/help-center/readme.md)
+- [Managing your organization](/docs/help-center/account-management/managing-your-organization.md)
+- [How do I transfer the ownership of an organization to another email/person?](/docs/help-center/account-management/managing-your-organization/how-do-i-transfer-the-ownership-of-an-organization-to-another-email-person.md): How to transfer ownership of an organization.
+- [How can I remove organization members?](/docs/help-center/account-management/managing-your-organization/how-can-i-remove-organization-members.md)
+- [How do I transfer an organization to a different account?](/docs/help-center/account-management/managing-your-organization/how-do-i-transfer-an-organization-to-a-different-account.md)
+- [What happens to my content if an account or organization is deleted?](/docs/help-center/account-management/managing-your-organization/what-happens-to-my-content-if-an-account-or-organization-is-deleted.md)
+- [Error: SignatureDoesNotMatch -SAML SSO](/docs/help-center/account-management/managing-your-organization/error-signaturedoesnotmatch-saml-sso.md)
+- [Managing your account](/docs/help-center/account-management/managing-your-account.md)
+- [Why I am not receiving emails from GitBook?](/docs/help-center/account-management/managing-your-account/why-i-am-not-receiving-emails-from-gitbook.md)
+- [Why I am not receiving notifications?](/docs/help-center/account-management/managing-your-account/why-i-am-not-receiving-notifications.md)
+- [Why has my account been disabled by administrator?](/docs/help-center/account-management/managing-your-account/why-has-my-account-been-disabled-by-administrator.md)
+- [Why am I getting: Error: auth/invalid-email](/docs/help-center/account-management/managing-your-account/why-am-i-getting-error-auth-invalid-email.md)
+- [Error: auth/email-already-in-use](/docs/help-center/account-management/managing-your-account/error-auth-email-already-in-use.md)
+- [Error: auth/expired-action-code](/docs/help-center/account-management/managing-your-account/error-auth-expired-action-code.md)
+- [Subscriptions](/docs/help-center/account-management/subscriptions.md)
+- [What does GitBook’s trial include?](/docs/help-center/account-management/subscriptions/what-does-gitbooks-trial-include.md)
+- [If I subscribe to a paid plan, can I remove the "Powered by GitBook" badge?](/docs/help-center/account-management/subscriptions/if-i-subscribe-to-a-paid-plan-can-i-remove-the-powered-by-gitbook-badge.md)
+- [How can I apply for a Community plan?](/docs/help-center/account-management/subscriptions/how-can-i-apply-for-a-community-plan.md)
+- [Do I have to pay to publish a site?](/docs/help-center/account-management/subscriptions/do-i-have-to-pay-to-publish-a-site.md)
+- [Are guests or readers free members?](/docs/help-center/account-management/subscriptions/are-guests-or-readers-free-members.md)
+- [Does GitBook offer a free plan for non-profit/open-source organizations?](/docs/help-center/account-management/subscriptions/does-gitbook-offer-a-free-plan-for-non-profit-open-source-organizations.md)
+- [When will I be charged for inviting a new member to my organization?](/docs/help-center/account-management/subscriptions/when-will-i-be-charged-for-inviting-a-new-member-to-my-organization.md)
+- [Billing and payments](/docs/help-center/account-management/billing-and-payments.md)
+- [What payment methods do you accept?](/docs/help-center/account-management/billing-and-payments/what-payment-methods-do-you-accept.md)
+- [Can I change my billing method to invoicing?](/docs/help-center/account-management/billing-and-payments/can-i-change-my-billing-method-to-invoicing.md)
+- [I have paid for the yearly plan. Why did I receive another invoice?](/docs/help-center/account-management/billing-and-payments/i-have-paid-for-the-yearly-plan.-why-did-i-receive-another-invoice.md)
+- [Where can I find my receipts or invoices?](/docs/help-center/account-management/billing-and-payments/where-can-i-find-my-receipts-or-invoices.md)
+- [How can I make sure my company info is included on my receipts?](/docs/help-center/account-management/billing-and-payments/how-can-i-make-sure-my-company-info-is-included-on-my-receipts.md)
+- [Can I receive my receipts via email?](/docs/help-center/account-management/billing-and-payments/can-i-receive-my-receipts-via-email.md)
+- [When I invite a new member to my GitBook organization, when will I be charged?](/docs/help-center/account-management/billing-and-payments/when-i-invite-a-new-member-to-my-gitbook-organization-when-will-i-be-charged.md)
+- [Do you offer any discounts?](/docs/help-center/account-management/billing-and-payments/do-you-offer-any-discounts.md)
+- [Can I get a refund?](/docs/help-center/account-management/billing-and-payments/can-i-get-a-refund.md)
+- [Writing and editing](/docs/help-center/editing-content/writing-and-editing.md)
+- [Can I edit GitBook on a smartphone?](/docs/help-center/editing-content/writing-and-editing/can-i-edit-gitbook-on-a-smartphone.md)
+- [Which blocks can be added inside an expandable block?](/docs/help-center/editing-content/writing-and-editing/which-blocks-can-be-added-inside-an-expandable-block.md)
+- [How can I translate my content in GitBook?](/docs/help-center/editing-content/writing-and-editing/how-can-i-translate-my-content-in-gitbook.md)
+- [Does GitBook support RTL?](/docs/help-center/editing-content/writing-and-editing/does-gitbook-support-rtl.md)
+- [Does GitBook have a find and replace feature?](/docs/help-center/editing-content/writing-and-editing/does-gitbook-have-a-find-and-replace-feature.md)
+- [Why can't I see an option to approve a review request?](/docs/help-center/editing-content/writing-and-editing/why-cant-i-see-an-option-to-approve-a-review-request.md)
+- [Managing your content](/docs/help-center/editing-content/managing-your-content.md)
+- [How can I export my content?](/docs/help-center/editing-content/managing-your-content/how-can-i-export-my-content.md)
+- [Can I move a page between spaces?](/docs/help-center/editing-content/managing-your-content/can-i-move-a-page-between-spaces.md)
+- [Can I move a space between organizations?](/docs/help-center/editing-content/managing-your-content/can-i-move-a-space-between-organizations.md)
+- [Is there a limit on the documentation import size or number?](/docs/help-center/editing-content/managing-your-content/is-there-a-limit-on-the-documentation-import-size-or-number.md)
+- [Assets and files](/docs/help-center/editing-content/assets-and-files.md)
+- [Is there a storage limit for asset uploads?](/docs/help-center/editing-content/assets-and-files/is-there-a-storage-limit-for-asset-uploads.md)
+- [Does Gitbook Support MP4 files?](/docs/help-center/editing-content/assets-and-files/does-gitbook-support-mp4-files.md)
+- [Can I embed an iframe in GitBook?](/docs/help-center/editing-content/assets-and-files/can-i-embed-an-iframe-in-gitbook.md)
+- [What’s the recommended page cover image size?](/docs/help-center/editing-content/assets-and-files/whats-the-recommended-page-cover-image-size.md)
+- [Why is my image not loading?](/docs/help-center/editing-content/assets-and-files/why-is-my-image-not-loading.md)
+- [Custom domains](/docs/help-center/published-documentation/custom-domains.md)
+- [How can I add a custom domain to a docs site?](/docs/help-center/published-documentation/custom-domains/how-can-i-add-a-custom-domain-to-a-docs-site.md)
+- [Why does my URL have this path?](/docs/help-center/published-documentation/custom-domains/why-does-my-url-have-this-path.md)
+- [How can I change the slug in the URL?](/docs/help-center/published-documentation/custom-domains/how-can-i-change-the-slug-in-the-url.md)
+- [How can I solve the "path is already taken" error?](/docs/help-center/published-documentation/custom-domains/how-can-i-solve-the-path-is-already-taken-error.md)
+- [Publishing](/docs/help-center/published-documentation/publishing.md)
+- [How to unpublish a site?](/docs/help-center/published-documentation/publishing/how-to-unpublish-a-site.md)
+- [How can I publish a space?](/docs/help-center/published-documentation/publishing/how-can-i-publish-a-space.md)
+- [How to preview a docs site?](/docs/help-center/published-documentation/publishing/how-to-preview-a-docs-site.md)
+- [What happens to my site when I delete a space connected to it?](/docs/help-center/published-documentation/publishing/what-happens-to-my-site-when-i-delete-a-space-connected-to-it.md)
+- [Why is my space still indexed in search engines after I unpublished it?](/docs/help-center/published-documentation/publishing/why-is-my-space-still-indexed-in-search-engines-after-i-unpublished-it.md)
+- [How does GitBook handle SEO?](/docs/help-center/published-documentation/publishing/how-does-gitbook-handle-seo.md)
+- [What is a default space and how to change it?](/docs/help-center/published-documentation/publishing/what-is-a-default-space-and-how-to-change-it.md)
+- [How can I publish a site with multiple versions?](/docs/help-center/published-documentation/publishing/how-can-i-publish-a-site-with-multiple-versions.md)
+- [What's the difference between a space and a docs site?](/docs/help-center/published-documentation/publishing/whats-the-difference-between-a-space-and-a-docs-site.md)
+- [How can I access insights or analytics?](/docs/help-center/published-documentation/publishing/how-can-i-access-insights-or-analytics.md)
+- [Customization](/docs/help-center/published-documentation/customization.md)
+- [Can I edit HTML, CSS, JS, or other custom code on GitBook?](/docs/help-center/published-documentation/customization/can-i-edit-html-css-js-or-other-custom-code-on-gitbook.md)
+- [How do I change or replace the favicon for my docs site?](/docs/help-center/published-documentation/customization/how-do-i-change-or-replace-the-favicon-for-my-docs-site.md)
+- [Building and installing integrations](/docs/help-center/integrations/building-and-installing-integrations.md)
+- [Can I request an integration?](/docs/help-center/integrations/building-and-installing-integrations/can-i-request-an-integration.md)
+- [Does GitBook have a CLI tool?](/docs/help-center/integrations/building-and-installing-integrations/does-gitbook-have-a-cli-tool.md)
+- [Where can I install an integration?](/docs/help-center/integrations/building-and-installing-integrations/where-can-i-install-an-integration.md)
+- [How do I install an integration on my site?](/docs/help-center/integrations/building-and-installing-integrations/how-do-i-install-an-integration-on-my-site.md)
+- [Can I build my own integration?](/docs/help-center/integrations/building-and-installing-integrations/can-i-build-my-own-integration.md)
+- [Existing integrations](/docs/help-center/integrations/existing-integrations.md)
+- [Git Sync](/docs/help-center/integrations/existing-integrations/git-sync.md)
+- [Git Sync status shows an unexpected error](/docs/help-center/integrations/existing-integrations/git-sync/git-sync-status-shows-an-unexpected-error.md)
+- [​GitBook is not using my docs folder](/docs/help-center/integrations/existing-integrations/git-sync/gitbook-is-not-using-my-docs-folder.md)
+- [GitBook is creating new markdown files](/docs/help-center/integrations/existing-integrations/git-sync/gitbook-is-creating-new-markdown-files.md)
+- [​Nothing happens on GitBook after adding a new file to my repository](/docs/help-center/integrations/existing-integrations/git-sync/nothing-happens-on-gitbook-after-adding-a-new-file-to-my-repository.md)
+- [My table of contents is not correctly structured](/docs/help-center/integrations/existing-integrations/git-sync/my-table-of-contents-is-not-correctly-structured.md)
+- [Error when pushing to the repository with protected branch](/docs/help-center/integrations/existing-integrations/git-sync/error-when-pushing-to-the-repository-with-protected-branch.md)
+- [Git Sync file size limitations](/docs/help-center/integrations/existing-integrations/git-sync/git-sync-file-size-limitations.md)
+- [Why am I getting a Git authentication failed message?](/docs/help-center/integrations/existing-integrations/git-sync/why-am-i-getting-a-git-authentication-failed-message.md)
+- [Why is the Mermaid block not loading?](/docs/help-center/integrations/existing-integrations/why-is-the-mermaid-block-not-loading.md)
+- [Where do I put my Google Analytics tracking ID?](/docs/help-center/integrations/existing-integrations/where-do-i-put-my-google-analytics-tracking-id.md)
+- [Does GitBook support Google Tag Manager?](/docs/help-center/integrations/existing-integrations/does-gitbook-support-google-tag-manager.md)
+- [How do I install the Intercom integration on my site?](/docs/help-center/integrations/existing-integrations/how-do-i-install-the-intercom-integration-on-my-site.md)
+- [Where can I find API ids?](/docs/help-center/further-help/where-can-i-find-api-ids.md)
+- [How do I contact support?](/docs/help-center/further-help/how-do-i-contact-support.md)
+- [How do I generate a HAR file?](/docs/help-center/further-help/how-do-i-contact-support/how-do-i-generate-a-har-file.md)
+- [How do I download a debug log?](/docs/help-center/further-help/how-do-i-contact-support/how-do-i-download-a-debug-log.md)
+- [How do I hard refresh my browser?](/docs/help-center/further-help/how-do-i-contact-support/how-do-i-hard-refresh-my-browser.md): Follow the steps to hard refresh your browser.
+- [Resolving "Connection Lost" message](/docs/help-center/further-help/how-do-i-contact-support/resolving-connection-lost-message.md)
+- [How can I contribute to GitBook’s Documentation?](/docs/help-center/further-help/how-can-i-contribute-to-gitbooks-documentation.md)
+- [Security](/docs/help-center/further-help/security.md)
+- [Where and how is my data stored?](/docs/help-center/further-help/security/where-and-how-is-my-data-stored.md)
+- [Is GitBook SOC 2 certified?](/docs/help-center/further-help/security/is-gitbook-soc-2-certified.md)

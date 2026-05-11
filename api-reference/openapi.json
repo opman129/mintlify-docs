@@ -21,6 +21,7 @@
   "paths": {
     "/plants": {
       "get": {
+        "summary": "List all plants",
         "description": "Returns all plants from the system that the user has access to",
         "parameters": [
           {
@@ -60,6 +61,7 @@
         }
       },
       "post": {
+        "summary": "Create a plant",
         "description": "Creates a new plant in the store",
         "requestBody": {
           "description": "Plant to add to the store",
@@ -98,6 +100,7 @@
     },
     "/plants/{id}": {
       "delete": {
+        "summary": "Delete a plant",
         "description": "Deletes a single plant based on the ID supplied",
         "parameters": [
           {
@@ -133,6 +136,7 @@
   "webhooks": {
     "/plant/webhook": {
       "post": {
+        "summary": "New plant webhook",
         "description": "Information about a new plant added to the store",
         "requestBody": {
           "description": "Plant added to the store",
@@ -155,9 +159,7 @@
   "components": {
     "schemas": {
       "Plant": {
-        "required": [
-          "name"
-        ],
+        "required": ["name"],
         "type": "object",
         "properties": {
           "name": {
@@ -176,9 +178,7 @@
             "$ref": "#/components/schemas/Plant"
           },
           {
-            "required": [
-              "id"
-            ],
+            "required": ["id"],
             "type": "object",
             "properties": {
               "id": {
@@ -191,10 +191,7 @@
         ]
       },
       "Error": {
-        "required": [
-          "error",
-          "message"
-        ],
+        "required": ["error", "message"],
         "type": "object",
         "properties": {
           "error": {

@@ -1,14 +1,16 @@
+# Resolve root-relative paths (e.g. /images/hero.png) into an excludable
+# placeholder domain instead of crashing at URL construction time
+base = "https://placeholder.invalid"
+
 exclude = [
-  # Root-relative paths (e.g. /images/hero.png, /essentials/code) are internal
-  # Mintlify links resolved by the platform at render time, not checkable locally
-  "^\\/",
+  # Root-relative paths resolved via base above — not real external URLs
+  "placeholder\\.invalid",
 
   # npmjs.com blocks automated checkers with 403
   "npmjs\\.com",
 
   # Mintlify's own docs URLs — boilerplate placeholder links that will be
-  # replaced with LambShock-specific content; Mintlify also reorganizes
-  # these URLs frequently (see redirects in CI output)
+  # replaced with LambShock content; Mintlify also reorganizes these frequently
   "mintlify\\.com\\/docs",
 ]
 

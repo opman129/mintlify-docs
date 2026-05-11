@@ -1,0 +1,24 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "LambShock",
+    "lambshock",
+    "mintlify",
+    "mdx",
+    "openapi",
+    "quickstart",
+    "favicon",
+    "navbar",
+    "cspell",
+    "commitlint",
+    "husky",
+    "changelog",
+    "topbar",
+    "Topbar",
+    "Blockquotes",
+    "amet",
+    "FRPC"
+  ],
+  "ignorePaths": ["node_modules", ".git", "package-lock.json", "*.json"]
+}

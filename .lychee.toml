@@ -1,11 +1,9 @@
-# Resolve root-relative paths (e.g. /images/hero.png) into an excludable
-# placeholder domain instead of crashing at URL construction time
-base = "https://placeholder.invalid"
+# Only check absolute external URLs — skip root-relative paths like
+# /images/hero.png and /essentials/code which are resolved by the
+# Mintlify platform at render time, not checkable from local files
+scheme = ["https", "http"]
 
 exclude = [
-  # Root-relative paths resolved via base above — not real external URLs
-  "placeholder\\.invalid",
-
   # npmjs.com blocks automated checkers with 403
   "npmjs\\.com",
 
